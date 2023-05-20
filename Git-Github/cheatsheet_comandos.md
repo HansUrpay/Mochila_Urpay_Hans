@@ -84,3 +84,13 @@
     ```bash
     rm -rf <archive_name>
     ```
+
+18. Mover un archivo al directorio indicado
+    ```bash
+    mv <archive_name> path/directory
+    ```
+
+19. Renombrar un archivo o directorio
+    ````bash
+    mv <name_1> <name_2>
+    ```
