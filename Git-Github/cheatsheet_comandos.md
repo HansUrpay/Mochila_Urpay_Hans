@@ -96,6 +96,6 @@
     ```
 
 20. Renombrar un archivo o directorio
-    ````bash
+    ```bash
     mv <name_1> <name_2>
     ```
