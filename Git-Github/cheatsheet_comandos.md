@@ -60,37 +60,42 @@
     git clone <link_repo>
     ```
 
-13. Crear un directorio
+13. Extraer los nuevos cambios del repo remoto al repo local
+    ```bash
+    git pull
+    ```
+
+14. Crear un directorio
     ```bash
     mkdir <directory_name>
     ```
 
-14. Crear un archivo, se debe indicar la extension del archivo.
+15. Crear un archivo, se debe indicar la extension del archivo.
     ```bash
     touch <archive_name>
     ```
 
-15. Eliminar un archivo
+16. Eliminar un archivo
     ```bash
     rm <archive_name>
     ```
 
-16. Eliminar un directorio vacio
+17. Eliminar un directorio vacio
     ```bash
     rmdir <archive_name>
     ```
 
-17. Eliminar un directorio con contenido
+18. Eliminar un directorio con contenido
     ```bash
     rm -rf <archive_name>
     ```
 
-18. Mover un archivo al directorio indicado
+19. Mover un archivo al directorio indicado
     ```bash
     mv <archive_name> path/directory
     ```
 
-19. Renombrar un archivo o directorio
+20. Renombrar un archivo o directorio
     ````bash
     mv <name_1> <name_2>
     ```
