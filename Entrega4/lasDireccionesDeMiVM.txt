@@ -1,0 +1,6 @@
+1. IP Privada --> 10.0.2.15
+2. IP Pública --> 45.189.116.15
+3. MAC --> 08:00:27:58:ea:6f
+4. Sí, es totalmente diferente, la MAC es un identificador único a nivel
+mundial asignado a la tarjeta de red de un dispositivo y consta de seis pares
+de caracteres alfanumericos separados por dos puntos.
